@@ -5,5 +5,7 @@
 				
 				</article>
 			</section>
-			
+			<!-- Position de la sidebar -->
+			<aside>
+			</aside>
 <?php get_footer(); ?>
